@@ -12,10 +12,6 @@ Vous avez un projet ? Contactez-moi pour discuter de la manière dont nous pouvo
 * ✉️  Vous pouvez me contacter à l'adresse lucjaubert.dev@gmail.com
 * 🤝  Je suis ouvert à des collaborations sur de nouveaux projets
 
-<a href="https://www.x.com/JaubertLuc" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/JaubertLuc?logo=twitter&style=for-the-badge&color=0891b2&labelColor=27272a"
-/></a>
-
 ### Skills
 
 
