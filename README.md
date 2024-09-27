@@ -16,7 +16,7 @@ Vous avez un projet ? Contactez-moi pour discuter de la manière dont nous pouvo
 * 🌍  Je suis basé à Bordeaux
 * ✉️  Vous pouvez me contacter à l'adresse [lucjaubert.dev@gmail.com](mailto:lucjaubert.dev@gmail.com)
 * 🤝  Je suis ouvert à des collaborations sur de nouveaux projets
-  
+
 
 ### Skills
 
