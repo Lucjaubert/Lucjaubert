@@ -1,14 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luc Jaubert
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je m'appelle Luc Jaubert.
 ===================================================================================================================================
 
-Founder of Wanted Community in 2011, first community of mutual aid and sharing of good deals between individuals on Facebook in Europe, I made social innovation my trademark for 11 years. In 2022, my thirst for technology pushed me to reinvent myself. I got a ticket for intensive training at the Wild Code School, delving into the mysteries of JavaScript, React and NodeJS. 
-Then I continued my training as a work-study student for a year at Obvy, a fintech company in Bordeaux where I learned and mastered Angular, TypeScript and Bootstrap. Also in my free time I develop side-projects combining Wordpress (Cms), Angular and REST API. 
-My engine? Transforming technology into impactful solutions. Ready to take on new tech challenges with you, let's talk about your project together.
+Je suis développeur web freelance basé à Bordeaux. Je me spécialise dans le développement front-end tout en possédant de solides compétences en back-end.
+Depuis la création de Wanted Community, une plateforme d'entraide sur Facebook regroupant plus de 1,3 million de membres, jusqu'au lancement du Wanted Café, mon parcours a été guidé par un désir de créer des espaces favorisant la connexion, l’entraide et la collaboration.
+Aujourd'hui, mon métier consiste à concevoir des sites web.
+Mon expertise en développement web couvre tout, de la conception de maquettes à l'optimisation SEO, en passant par le développement et la maintenance de sites.
+Je collabore également avec des agences de communication, développant des sites qui répondent non seulement aux besoins spécifiques des clients, mais qui sont aussi techniquement solides et visuellement attrayants.
+Vous avez un projet ? Contactez-moi pour discuter de la manière dont nous pouvons collaborer pour développer une solution web adaptée à vos besoins.
 
-* 🌍  I'm based in Bordeaux
-* ✉️  You can contact me at [lucjaubert@gmail.com](mailto:lucjaubert@gmail.com)
-* 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on new projects
+* 🌍  Je suis basé à Bordeaux
+* ✉️  Vous pouvez me contacter à l'adresse lucjaubert.dev@gmail.com
+* 🤝  Je suis ouvert à des collaborations sur de nouveaux projets
 
 <a href="https://www.x.com/JaubertLuc" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/JaubertLuc?logo=twitter&style=for-the-badge&color=0891b2&labelColor=27272a"
