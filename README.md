@@ -2,15 +2,21 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 ===================================================================================================================================
 
 Je suis développeur web freelance basé à Bordeaux. Je me spécialise dans le développement front-end tout en possédant de solides compétences en back-end.
+
 Depuis la création de Wanted Community, une plateforme d'entraide sur Facebook regroupant plus de 1,3 million de membres, jusqu'au lancement du Wanted Café, mon parcours a été guidé par un désir de créer des espaces favorisant la connexion, l’entraide et la collaboration.
+
 Aujourd'hui, mon métier consiste à concevoir des sites web.
+
 Mon expertise en développement web couvre tout, de la conception de maquettes à l'optimisation SEO, en passant par le développement et la maintenance de sites.
+
 Je collabore également avec des agences de communication, développant des sites qui répondent non seulement aux besoins spécifiques des clients, mais qui sont aussi techniquement solides et visuellement attrayants.
+
 Vous avez un projet ? Contactez-moi pour discuter de la manière dont nous pouvons collaborer pour développer une solution web adaptée à vos besoins.
 
 * 🌍  Je suis basé à Bordeaux
-* ✉️  Vous pouvez me contacter à l'adresse lucjaubert.dev@gmail.com
+* ✉️  Vous pouvez me contacter à l'adresse [lucjaubert.dev@gmail.com](mailto:lucjaubert.dev@gmail.com)
 * 🤝  Je suis ouvert à des collaborations sur de nouveaux projets
+
 
 ### Skills
 
