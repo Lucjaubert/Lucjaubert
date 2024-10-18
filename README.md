@@ -1,7 +1,7 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je m'appelle Luc Jaubert
 ===================================================================================================================================
 
-Je suis développeur web freelance, basé à Bordeaux. Je me spécialise dans le développement front-end tout en possédant de solides compétences en back-end.
+Je suis développeur web freelance, basé à Bordeaux, spécialisé dans le développement front-end tout en possédant des compétences solides en back-end.
 
 Depuis la création de Wanted Community, une plateforme d'entraide sur Facebook regroupant plus de 1,3 million de membres, jusqu'au lancement du Wanted Café, mon parcours a été guidé par un désir de créer des espaces favorisant la connexion, l’entraide et la collaboration.
 
