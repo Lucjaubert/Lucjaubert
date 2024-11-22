@@ -1,17 +1,17 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je m'appelle Luc Jaubert
 ===================================================================================================================================
 
-Je suis développeur web freelance, basé à Bordeaux, spécialisé dans le développement front-end tout en possédant des compétences solides en back-end.
+Je suis developpeur web freelance base a Bordeaux, specialise dans le developpement front-end, tout en possedant des competences solides en back-end. Mon parcours est marque par un desir de batir des espaces (numeriques) qui favorisent la connexion, l’entraide et la collaboration. J'accompagne des clients partout en France pour des projets adaptes à leurs besoins specifiques.
 
-Depuis la création de Wanted Community, une plateforme d'entraide sur Facebook regroupant plus de 1,3 million de membres, jusqu'au lancement du Wanted Café, mon parcours a été guidé par un désir de créer des espaces favorisant la connexion, l’entraide et la collaboration.
+Depuis la creation de Wanted Community, une plateforme d'entraide sur Facebook reunissant plus de 1,3 million de membres, jusqu’au lancement du Wanted Cafe, j’ai toujours eu a cœur de concevoir des solutions qui rapprochent les gens et encouragent l'interaction.
 
-Aujourd'hui, mon métier consiste à concevoir des sites web.
+Aujourd'hui, mon metier consiste a concevoir des sites web pour des entreprises, en alliant performance technique, design soigne et experience utilisateur optimale.
 
-Mon expertise en développement web couvre tout, de la conception de maquettes à l'optimisation SEO, en passant par le développement et la maintenance de sites.
+Mon expertise couvre l'ensemble du processus de developpement : de la conception de maquettes a l’optimisation SEO, en passant par le developpement sur-mesure et la maintenance des sites.
 
-Je collabore également avec des agences de communication, développant des sites qui répondent non seulement aux besoins spécifiques des clients, mais qui sont aussi techniquement solides et visuellement attrayants.
+Je collabore egalement avec des agences de communication pour transformer leurs maquettes en sites fonctionnels, robustes et visuellement attrayants, tout en repondant aux besoins specifiques des clients.
 
-Vous avez un projet ? Contactez-moi pour discuter de la manière dont nous pouvons collaborer pour développer une solution web adaptée à vos besoins.
+Vous avez un projet web ? Contactez-moi pour discuter de la maniere dont nous pouvons travailler ensemble pour developper une solution web parfaitement adaptee a vos besoins.
 
 * 🌍  Je suis basé à Bordeaux
 * ✉️  Vous pouvez me contacter à l'adresse [lucjaubert.dev@gmail.com](mailto:lucjaubert.dev@gmail.com)
